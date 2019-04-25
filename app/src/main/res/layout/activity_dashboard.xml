@@ -27,10 +27,9 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:layout_width="32dp"
-                    android:layout_height="32dp"
-                    android:src="@drawable/shotang_icon" />
-
+                    android:layout_width="50dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/logo2" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -39,9 +38,9 @@
                     android:layout_alignParentTop="true"
                     android:layout_marginStart="46dp"
                     android:fontFamily="@font/calibri"
-                    android:text="Shotang"
+                    android:text="My Food"
                     android:layout_marginTop="4dp"
-                    android:textColor="#000000"
+                    android:textColor="@color/colorAccent"
                     android:textSize="22sp"
                     android:textStyle="bold" />
 
@@ -224,7 +223,7 @@
                                 android:layout_width="0dp"
                                 android:layout_height="100dp"
                                 android:layout_weight="33.3"
-                                android:src="@drawable/image3" />
+                                android:src="@drawable/KFC" />
 
                             <ImageView
                                 android:layout_width="0dp"
@@ -232,13 +231,13 @@
                                 android:layout_marginLeft="8dp"
                                 android:layout_marginRight="8dp"
                                 android:layout_weight="33.3"
-                                android:src="@drawable/image4" />
+                                android:src="@drawable/mcd" />
 
                             <ImageView
                                 android:layout_width="0dp"
                                 android:layout_height="100dp"
                                 android:layout_weight="33.3"
-                                android:src="@drawable/image5" />
+                                android:src="@drawable/rf" />
                         </LinearLayout>
 
                         <LinearLayout
@@ -251,7 +250,7 @@
                                 android:layout_width="0dp"
                                 android:layout_height="100dp"
                                 android:layout_weight="33.3"
-                                android:src="@drawable/image6" />
+                                android:src="@drawable/Jco" />
 
                             <ImageView
                                 android:layout_width="0dp"
@@ -259,13 +258,13 @@
                                 android:layout_marginLeft="8dp"
                                 android:layout_marginRight="8dp"
                                 android:layout_weight="33.3"
-                                android:src="@drawable/image7" />
+                                android:src="@drawable/ph" />
 
                             <ImageView
                                 android:layout_width="0dp"
                                 android:layout_height="100dp"
                                 android:layout_weight="33.3"
-                                android:src="@drawable/image8" />
+                                android:src="@drawable/ws" />
                         </LinearLayout>
 
                     </LinearLayout>
